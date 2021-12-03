@@ -1,3 +1,3 @@
-# dummy-ipk-repo-generator
+# some-ipks
 
-A python3 script to generate dummy ipks for use with opkg and opkg-utils.
+Some scripts and utilities to generate test ipk files that are compatible with opkg.
